@@ -1,11 +1,15 @@
-import FoodItems from './pages/FoodItems'
+import Nav from "./components/nav/Nav"
 import './App.css'
+import FoodItems from "./pages/fooditems/FoodItems"
 
 function App() {
-  
+
   return (
     <>
-        <FoodItems />
+      <header>
+        <Nav />
+      </header>
+      <FoodItems/>
     </>
   )
 }

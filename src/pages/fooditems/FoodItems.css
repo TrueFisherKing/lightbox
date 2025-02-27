@@ -1,0 +1,39 @@
+main.food-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+main.food-items a,
+main.food-items section {
+  text-decoration: none;
+  color: inherit;
+
+  flex-grow: 50%;
+  flex-basis: 0;
+  min-width: 30%;
+}
+
+main.food-items section {
+  background-color: rgba(255, 255, 255, 0.15);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 5px;
+}
+
+main.food-items img {
+  cursor: pointer;
+  height: 200px;
+}
+
+.food-items .category {
+  border-radius: 4px;
+  margin-top: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  padding: 10px 20px;
+  padding: 4px;
+  background-color: rgba(255, 255, 255, 0.15);
+}

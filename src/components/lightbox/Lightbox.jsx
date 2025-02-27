@@ -1,14 +1,11 @@
-import React from 'react'
-import './Lightbox.css'
+import React from 'react';
+import './Lightbox.css';
 
-function closeLightbox(toggleBool, foodItem){
-    toggleBool(false);
-    foodItem({});
-}
-export default function Lightbox({children : toggleBool, item, foodItem}) {
-  return (
-    <div className='lightbox' onClick={()=>closeLightbox(toggleBool, foodItem)}>
-        <img src={item.image} alt={item.title} />
-    </div>
-  )
+export default function Lightbox({ selectedItem, setSelectedItem }) {
+
+    return (
+        <div className='lightbox' onClick={()=>setSelectedItem(null)}>
+            <img src={selectedItem.image} alt={selectedItem.title} />
+        </div>
+    )
 }
