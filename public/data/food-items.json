@@ -1,0 +1,144 @@
+{
+  "items": [
+      {
+          "id": 1,
+          "title": "Chicken and Asparagus",
+          "category": "Main Course",
+          "image": "assets/images/photo-1432139555190-58524dae6a55.jpg",
+          "description": "A delicious dish featuring tender chicken paired with fresh asparagus, cooked to perfection."
+      },
+      {
+          "id": 2,
+          "title": "Pancakes and Fruit",
+          "category": "Breakfast",
+          "image": "assets/images/photo-1478369402113-1fd53f17e8b4.jpg",
+          "description": "Fluffy pancakes served with a variety of fresh fruits, making for a delightful breakfast."
+      },
+      {
+          "id": 3,
+          "title": "Christmas Drinks",
+          "category": "Beverages",
+          "image": "assets/images/photo-1481671703460-040cb8a2d909.jpg",
+          "description": "Festive holiday drinks, perfect for warming up during the Christmas season."
+      },
+      {
+          "id": 4,
+          "title": "French Toast",
+          "category": "Breakfast",
+          "image": "assets/images/photo-1484723091739-30a097e8f929.jpg",
+          "description": "Golden-brown French toast topped with syrup and fresh fruits, a classic breakfast favorite."
+      },
+      {
+          "id": 5,
+          "title": "Yogurt",
+          "category": "Breakfast",
+          "image": "assets/images/photo-1488477181946-6428a0291777.jpg",
+          "description": "A creamy yogurt parfait layered with fresh berries and granola."
+      },
+      {
+          "id": 6,
+          "title": "Big Burger",
+          "category": "Fast Food",
+          "image": "assets/images/photo-1498601566872-21706d8e6fdf.jpg",
+          "description": "A juicy, mouthwatering burger loaded with toppings and served on a toasted bun."
+      },
+      {
+          "id": 7,
+          "title": "Salad Spread",
+          "category": "Salad",
+          "image": "assets/images/photo-1498837167922-ddd27525d352.jpg",
+          "description": "A vibrant assortment of fresh vegetables, nuts, and proteins, perfect for a healthy meal."
+      },
+      {
+          "id": 8,
+          "title": "Healthy Breakfast",
+          "category": "Breakfast",
+          "image": "assets/images/photo-1500315331616-db4f707c24d1.jpg",
+          "description": "A nutritious breakfast plate with eggs, toast, and fresh greens."
+      },
+      {
+          "id": 9,
+          "title": "Pizza",
+          "category": "Fast Food",
+          "image": "assets/images/photo-1506354666786-959d6d497f1a.jpg",
+          "description": "A delicious pizza with melted cheese and a variety of toppings, fresh from the oven."
+      },
+      {
+          "id": 10,
+          "title": "Dumplings",
+          "category": "Appetizer",
+          "image": "assets/images/photo-1534422298391-e4f8c172dddb.jpg",
+          "description": "Steamed dumplings filled with flavorful ingredients, served with dipping sauce."
+      },
+      {
+          "id": 11,
+          "title": "Ribs",
+          "category": "BBQ",
+          "image": "assets/images/photo-1544025162-d76694265947.jpg",
+          "description": "Tender and juicy ribs glazed with a rich barbecue sauce."
+      },
+      {
+          "id": 12,
+          "title": "Steak",
+          "category": "Main Course",
+          "image": "assets/images/photo-1564609742861-5517b59e46d5.jpg",
+          "description": "A perfectly grilled steak with a side of vegetables and potatoes."
+      },
+      {
+          "id": 13,
+          "title": "Pancakes",
+          "category": "Breakfast",
+          "image": "assets/images/photo-1567620905732-2d1ec7ab7445.jpg",
+          "description": "Classic pancakes stacked high and drizzled with syrup."
+      },
+      {
+          "id": 14,
+          "title": "Pepper Steak",
+          "category": "Main Course",
+          "image": "assets/images/photo-1567778744680-eb44ae7aa09b.jpg",
+          "description": "A savory dish featuring tender steak cooked with bell peppers and a flavorful sauce."
+      },
+      {
+          "id": 15,
+          "title": "BBQ",
+          "category": "BBQ",
+          "image": "assets/images/photo-1572668630328-4d983b66dd6c.jpg",
+          "description": "A barbecue feast with grilled meats, smoky flavors, and savory sauces."
+      },
+      {
+          "id": 16,
+          "title": "Beef and Veggies",
+          "category": "Main Course",
+          "image": "assets/images/photo-1573225342350-16731dd9bf3d.jpg",
+          "description": "A hearty stir-fry of beef and colorful vegetables, packed with flavor."
+      },
+      {
+          "id": 17,
+          "title": "Steak and Veggies",
+          "category": "Main Course",
+          "image": "assets/images/photo-1579279060794-0b958f8763b5.jpg",
+          "description": "A perfectly grilled steak served alongside a medley of fresh vegetables."
+      },
+      {
+          "id": 18,
+          "title": "Chocolate",
+          "category": "Dessert",
+          "image": "assets/images/photo-1584270354955-9b76e73fb9d1.jpg",
+          "description": "Rich and decadent chocolate treats, perfect for any sweet tooth."
+      },
+      {
+          "id": 19,
+          "title": "Salmon",
+          "category": "Main Course",
+          "image": "assets/images/photo-1598515213692-5f252f75d785.jpg",
+          "description": "A beautifully cooked salmon fillet with a side of fresh greens."
+      },
+      {
+          "id": 20,
+          "title": "Fruit Platter",
+          "category": "Appetizer",
+          "image": "assets/images/photo-1599350358111-e62bcdb10096.jpg",
+          "description": "A vibrant selection of fresh, seasonal fruits arranged on a platter."
+      }
+  ]
+}
